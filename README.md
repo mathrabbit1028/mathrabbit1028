@@ -19,10 +19,14 @@ https://mathrabbit1028.github.io/
 🔴 Korean fontfile auto generation using part of writings
 ```
 
-## Label
-```
-🟢 : Completed
-🟡 : Progressing
-🔴 : Planned
-⚫ : Suspended
-```
+<details>
+  <summary>
+    Label
+  </summary>
+  
+    🟢 : Completed
+    🟡 : Progressing
+    🔴 : Planned
+    ⚫ : Suspended
+</details>
+
