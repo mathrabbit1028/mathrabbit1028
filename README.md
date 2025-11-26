@@ -10,10 +10,16 @@ https://mathrabbit1028.github.io/
 🟢 Reinforcement Learning
 ```
 
+## Researches
+```
+🟢 Efficient and Rapid Grid Voronoi Diagram Computation
+🟢 BunnySort: A New Sorting Algorithm for Certain Distributions of Data
+🟢 Combat Simulation Algorithm Using Monte Carlo Tree Search
+```
+
 ## Projects
 ```
 🟢 Minecraft Plugin Development
-🟢 Grid Voronoi Diagram Research
 🟡 Writing an OI Textbook
 ⚫ LISP Interpreter Development
 🔴 Korean fontfile auto generation using part of writings
